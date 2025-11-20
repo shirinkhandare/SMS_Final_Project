@@ -1,5 +1,5 @@
 # SMS_Final_Project
-**Team name:** SMS
+**Team name:** SMS; Group 8
 **Members:** Mariah Babski (mgb139@pitt.edu), Shirin Khandare (sak811@pitt.edu), Susan Agbokah (sua117@pitt.edu)
 
 **Description and links to the datasets used**
